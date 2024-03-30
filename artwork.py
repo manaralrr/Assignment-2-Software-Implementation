@@ -15,6 +15,7 @@ class Artwork:
         self.date_of_creation = date_of_creation
         self.historical_significance = historical_significance
         self.location = location
+        Artwork.artworks.append(self)
 
     def get_all_artworks():
         return Artwork.artworks
