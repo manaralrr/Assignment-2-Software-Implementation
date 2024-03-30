@@ -6,18 +6,18 @@ The Louvre Museum's software application aims to revolutionize visitor experienc
 ![Untitled Diagram drawio-10](https://github.com/manaralrr/Assignment-2-Software-Implementation/assets/160352954/2b96bc02-c38a-485c-8777-2bef65b8208a)
 ## Class Descriptions
 ### 1.	Artwork Class
-Attributes: 
-•	title: The title of the artwork.
-•	artist: The name of the artist who created the artwork.
-•	date_of_creation: The year when the artwork was created.
-•	historical_significance: A brief description of the historical significance of the artwork.
-•	location: The location of the artwork within the museum (e.g., permanent gallery, exhibition hall, outdoor space).
-Behaviour: The class provides a method to retrieve all artworks currently in the museum's collection.
+Attributes: <br>
+•	title: The title of the artwork.<br>
+•	artist: The name of the artist who created the artwork.<br>
+•	date_of_creation: The year when the artwork was created.<br>
+•	historical_significance: A brief description of the historical significance of the artwork.<br>
+•	location: The location of the artwork within the museum (e.g., permanent gallery, exhibition hall, outdoor space).<br>
+Behaviour: The class provides a method to retrieve all artworks currently in the museum's collection.<br>
 Purpose: Manages information about the museum's artworks, facilitating cataloguing and retrieval
 
 ### 2.	Exhibition Class
-Attributes: 
-•	name: The name of the exhibition.
+Attributes: <br>
+•	name: The name of the exhibition.<br>
 •	location: The location of the exhibition within the museum.
 •	start_date: The start date of the exhibition.
 •	end_date: The end date of the exhibition.
